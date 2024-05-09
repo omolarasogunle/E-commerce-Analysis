@@ -46,7 +46,6 @@ This includes some interesting code/features worked with
 SELECT * FROM table1
 WHERE cond = 10;
 
-
 ### Results/Findings
 
 The analysis results are summarized as follows:
