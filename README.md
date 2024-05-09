@@ -40,11 +40,10 @@ EDA involves exploring the customers, oders, transactions and products data to a
 
 ### Data Analysis
 
-This includes some interesting code/features worked wiyh
+This includes some interesting code/features worked with
 
----sql
-SELECT * 
-FROM table1
+```sql
+SELECT * FROM table1
 WHERE cond = 10;
 
 
