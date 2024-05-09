@@ -44,9 +44,10 @@ This includes some interesting code/features worked with
 
 ```sql
 SELECT * FROM table1
-WHERE cond = 10;
+WHERE cond = 1;
 
 ### Results/Findings
+
 
 The analysis results are summarized as follows:
 1. The company's total revenue have been steadily increasing over time, with a noticeable margin.
