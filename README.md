@@ -44,7 +44,8 @@ This includes some interesting code/features worked with
 
 ```sql
 SELECT * FROM table1
-WHERE cond = 1;
+WHERE cond = 10;
+```
 
 ### Results/Findings
 
